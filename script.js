@@ -107,3 +107,4 @@ $('.product-slider-2').slick({
         // instead of a settings object
     ]
 });
+
